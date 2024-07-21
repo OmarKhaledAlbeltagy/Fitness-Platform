@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\AAA\\Development\\Tranify\\Tarinify\\Tarinify\\wwwroot\\EmptyCover.jpg",
+      "PackagePath": "staticwebassets\\EmptyCover.jpg"
+    },
+    {
+      "Id": "C:\\AAA\\Development\\Tranify\\Tarinify\\Tarinify\\wwwroot\\MealThumb.png",
+      "PackagePath": "staticwebassets\\MealThumb.png"
+    },
+    {
+      "Id": "C:\\AAA\\Development\\Tranify\\Tarinify\\Tarinify\\wwwroot\\Thumbnail.png",
+      "PackagePath": "staticwebassets\\Thumbnail.png"
+    },
+    {
+      "Id": "C:\\AAA\\Development\\Tranify\\Tarinify\\Tarinify\\wwwroot\\pp.png",
+      "PackagePath": "staticwebassets\\pp.png"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Trainify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Trainify.props",
+      "PackagePath": "build\\Trainify.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Trainify.props",
+      "PackagePath": "buildMultiTargeting\\Trainify.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Trainify.props",
+      "PackagePath": "buildTransitive\\Trainify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

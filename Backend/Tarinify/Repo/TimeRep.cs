@@ -1,0 +1,13 @@
+﻿namespace Trainify.Repo
+{
+    public class TimeRep : ITimeRep
+    {
+        public DateTime GetCurrentTime()
+        {
+            DateTime serverTime = DateTime.Now;
+            DateTime _localTime = TimeZoneInfo.ConvertTimeBySystemTimeZoneId(serverTime, TimeZoneInfo.Local.Id, Properties.TimeZone);
+            var res = _localTime - new DateTime(_localTime.Year, _localTime.Month, _localTime.Day);
+            return _localTime;
+        }
+    }
+}

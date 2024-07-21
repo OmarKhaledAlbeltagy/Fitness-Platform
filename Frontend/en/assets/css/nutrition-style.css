@@ -1,0 +1,18 @@
+.instant-meal-selected{
+    background-color: #117186 !important;
+    color: white !important;
+}
+
+.instant-meal-card{
+    transition: 500ms;
+}
+
+.instant-meal-selected *{
+    color: white !important;
+    transition: 500ms;
+}
+
+
+.pointer{
+    cursor: pointer;
+}
